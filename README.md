@@ -3,4 +3,3 @@
 #### Avançando mais um pouco com o PHP.
 
 ##### Usado como exemplo um sistema de banco, como sacar, depositar e criar conta.
-##### o arquivo banco.php é usado para teste.
